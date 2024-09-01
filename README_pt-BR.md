@@ -5,10 +5,10 @@
 - [Motivativação](#Motivação)
 - [Objetivos](#Objetivos)
 - [Metologia](#Metologia)
-    - [Achando uma Base de Dados](#Achando uma Base de Dados)
-    - [Modelos Utilizados](#Modelos Utilizados)
+    - [Achando uma Base de Dados](#Achando-uma-Base-de-Dados)
+    - [Modelos Utilizados](#Modelos-Utilizados)
     - [Pré-Processamento](#Pré-Processamento)
-    - [Treinamento dos Modelos](#Treinamento dos Modelos)
+    - [Treinamento dos Modelos](#Treinamento-dos-Modelos)
 - [Resultados](#Resultados)
     - [Gráficos](#Gráficos)
     - [Predições](#Predições)
@@ -30,7 +30,7 @@ Já a motivação deste trabalho surge após a participação do projeto de exte
 * Analisar e discutir sobre a acurácia do modelo utilizado para reconhecer o acesso a materiais de educação inclusivos no Brasil.
 ## 🔬 Metodologia
 ### Passos
-* **Achar uma Base de Dados**  
+* **Achando uma Base de Dados**  
 A base usada para este projeto foi a [V-Librasil](https://libras.cin.ufpe.br/). A base de dados possui por volta de 1350 sinais diferentes feita por 3 articuladores, totalizando em um pouco mais de 4000 vídeos para o treinamento. 
 
 * **Modelos Utilizados**
