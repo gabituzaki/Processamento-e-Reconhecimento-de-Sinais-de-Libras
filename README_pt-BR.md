@@ -103,62 +103,62 @@ A análise dos resultados demonstra que o modelo **MobileNetV2** obteve o melhor
 ### Gráficos
 * **ROC Curve**
 **MobileNetV2**
-![ROC Curve from MobileNetV2 Model](prints\Curva_roc_mobile.png)
+![ROC Curve from MobileNetV2 Model](prints/Curva_roc_mobile.png)
 
 **ResNet50V2**
-![ROC Curve from ResNet50V2 Model](prints\Curva_roc_resNet.png)
+![ROC Curve from ResNet50V2 Model](prints/Curva_roc_resNet.png)
 
 **InceptionResNetV2**
-![ROC Curve from InceptionResNetV2 Model](prints\Curva_roc_inception.png)
+![ROC Curve from InceptionResNetV2 Model](prints/Curva_roc_inception.png)
 
 * **Precision and Recall**
 
 **MobileNetV2**
-![PR from MobileNetV2 Model](prints\Precision_and_recall_mobile.png)
+![PR from MobileNetV2 Model](prints/Precision_and_recall_mobile.png)
 
 **ResNet50V2**
-![PR from ResNet50V2 Model](prints\Precision_and_recall_resNet.png)
+![PR from ResNet50V2 Model](prints/Precision_and_recall_resNet.png)
 
 **InceptionResNetV2**
-![PR from InceptionResNetV2 Model](prints\Precision_and_recall_inception.png)
+![PR from InceptionResNetV2 Model](prints/Precision_and_recall_inception.png)
 
 
 
 * **Train vs Validation Accuracy**
 
 **MobileNetV2**
-![Accuracy from MobileNetV2 Model](prints\train_val_accuracy_mobile.png)
+![Accuracy from MobileNetV2 Model](prints/train_val_accuracy_mobile.png)
 
 
 **ResNet50V2**
-![Accuracy from ResNet50V2 Model](prints\train_val_accuracy_resNet.png)
+![Accuracy from ResNet50V2 Model](prints/train_val_accuracy_resNet.png)
 
 **InceptionResNetV2**
-![Accuracy from InceptionResNetV2 Model](prints/Curva_roc_inception.png)
+![Accuracy from InceptionResNetV2 Model](prints/train_val_accuracy_inception.png)
 
 * **Train vs Validation Loss**
 
 **MobileNetV2**
-![Loss from MobileNetV2 Model](prints\train_val_loss_mobile.png)
+![Loss from MobileNetV2 Model](prints/train_val_loss_mobile.png)
 
 
 **ResNet50V2**
-![Loss from ResNet50V2 Model](prints\train_val_loss_resNet.png)
+![Loss from ResNet50V2 Model](prints/train_val_loss_resNet.png)
 
 **InceptionResNetV2**
-![Loss from InceptionResNetV2 Model](prints\train_val_loss_inception.png)
+![Loss from InceptionResNetV2 Model](prints/train_val_loss_inception.png)
 
 
 ### Predições
-- Good Examples
-![Trem](prints\screenshot_7.png)
+- Bons exemplos
+![Trem](prints/screenshot_7.png)
 
-![Escola](prints\screenshot_1.png)
+![Escola](prints/screenshot_1.png)
 
-- Bad Examples
-![Pao](prints\screenshot_5.png)
+- Maus exemplos
+![Pao](prints/screenshot_5.png)
 
-![Bombeiro](prints\screenshot_3.png)
+![Bombeiro](prints/screenshot_3.png)
 
 
 ## 🌟 Conclusão
