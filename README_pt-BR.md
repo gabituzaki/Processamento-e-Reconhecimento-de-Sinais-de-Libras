@@ -134,7 +134,7 @@ A análise dos resultados demonstra que o modelo **MobileNetV2** obteve o melhor
 ![Accuracy from ResNet50V2 Model](.\prints\train_val_accuracy_resNet.png)
 
 **InceptionResNetV2**
-![Accuracy from InceptionResNetV2 Model](.\prints\train_val_accuracy_inception.png)
+![Accuracy from InceptionResNetV2 Model](prints/Curva_roc_inception.png)
 
 * **Train vs Validation Loss**
 
