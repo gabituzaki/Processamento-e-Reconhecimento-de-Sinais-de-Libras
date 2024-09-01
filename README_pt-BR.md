@@ -175,12 +175,16 @@ A análise dos resultados demonstra que o modelo **MobileNetV2** obteve o melhor
 
 
 ### Predições
-- Bons exemplos
+- **Bons exemplos**
+
+
 ![Trem](prints/screenshot_7.png)
 
 ![Escola](prints/screenshot_1.png)
 
-- Maus exemplos
+- **Maus exemplos**
+
+
 ![Pao](prints/screenshot_5.png)
 
 ![Bombeiro](prints/screenshot_3.png)
